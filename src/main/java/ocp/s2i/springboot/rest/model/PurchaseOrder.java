@@ -13,6 +13,8 @@
  * implied.  See the License for the specific language governing
  * permissions and limitations under the License.
  */
+//pointless change to test CI/CD
+
 package ocp.s2i.springboot.rest.model;
 
 import javax.persistence.Entity;
